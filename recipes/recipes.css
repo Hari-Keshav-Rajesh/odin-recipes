@@ -3,6 +3,7 @@
     font-size: 54px;
     font-weight: bold;
     background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .image{
     height:auto;
@@ -13,9 +14,11 @@
 .body{
     text-align: justify;
     font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .subheader{
     font-size: 36px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .ingredients{
     color: blue;
