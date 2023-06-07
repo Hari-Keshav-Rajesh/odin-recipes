@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    font-size: 54px;
+    font-weight: bold;
+    background-color: yellow;
+}
+.image{
+    height:auto;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.body{
+    text-align: justify;
+    font-size: 24px;
+}
+.subheader{
+    font-size: 36px;
+}
+.ingredients{
+    color: blue;
+    background-color: limegreen;
+}
+.steps{
+    color:black;
+    background-color: firebrick;
+}
